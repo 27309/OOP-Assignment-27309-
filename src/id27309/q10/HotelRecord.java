@@ -1,6 +1,6 @@
 package id27309.q10;
 
-public class HotelRecord extends Bill{
+public class HotelRecord extends Bill {
     public HotelRecord(int id, String createdDate, String updatedDate,
                        String hotelName, String location,
                        String roomNumber, String roomType, double roomPrice,
